@@ -30,22 +30,39 @@ The project provides a luxury airline booking experience with tour packages, boo
 ## 📁 Project Structure
 
 AVIATOR–Flight-Booking-System-Website/
+
 │── index.html
+
 │── styles.css
+
 │── logo2.png
+
 │── logo3.png
+
 │── air.jpg
+
 │── air2.jpg
+
 │── air3.jpg
+
 │── air4.jpg
+
 │── air5.jpg
+
 │── air6.jpg
+
 │── air8.jpg
+
 │── air10.jpg
+
 │── air11.jpg
+
 │── air12.jpg
+
 │── air13.jpg
+
 │── air14.jpg
+
 │── README.md
 
 ## 🧾 How to Run the Project
@@ -68,9 +85,12 @@ AVIATOR–Flight-Booking-System-Website/
 
 ## 👨‍💻 Author
 
-Shayan Qureshi
+**Shayan Qureshi**  
+
 Software & AI Enthusiast
+
 BS Artificial Intelligence – Semester 4 
+
 https://github.com/Shayan-Qureshi4
 
 ---
