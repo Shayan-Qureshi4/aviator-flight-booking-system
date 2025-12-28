@@ -69,8 +69,9 @@ AVIATOR–Flight-Booking-System-Website/
 ## 👨‍💻 Author
 
 Shayan Qureshi
-AI Undergraduate | Web Development Project  
-Pakistan 🇵🇰
+Software & AI Enthusiast
+BS Artificial Intelligence – Semester 4 
+https://github.com/Shayan-Qureshi4
 
 ---
 
